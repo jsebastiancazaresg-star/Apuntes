@@ -1,0 +1,60 @@
+section{
+    width: 800px;
+    height: 1000px;
+    border: grey solid 2px;
+/*  display: flex ;*/ 
+justify-content: center;
+align-items: center;
+
+}
+.caja-negra{
+ width: 150px;
+height: 150px;
+border: black solid 2px;
+background-color: black;
+
+
+
+}
+.caja-azul{
+width: 100px;
+height: 100px;
+border: black solid 2px;
+background-color: blue;
+
+}
+.caja-verde{
+width: 100px;
+height: 100px;
+border: black dotted 2px;
+background-color:green;
+    
+
+
+}
+.rana{
+width: 100px;
+height: 100px;
+border: black dotted 2px;
+background-image: url('../img/Rana.jpg');
+background-size: 100% 100%;
+
+.rana::hover{
+width: 200px ;
+height: 200px;
+
+
+
+
+}
+
+
+}
+.tigre{
+width: 100px;
+height: 100px;
+background-image: url('../img/Tiger.jpg') ;
+background-size: 100% 100%
+
+
+}
