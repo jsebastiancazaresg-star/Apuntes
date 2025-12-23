@@ -32,5 +32,14 @@ section {
 background-image: url("../img/Tiger.jpg");
 background-size: 100% 100%;
 height: 400px;
-
+display: flex;
+justify-content: center;
+align-items: center;
+}
+h2{
+font-size: 200px;
+color: rgb(0, 0, 0);
+font-weight: bold;
+text-shadow: 20px 20px #80080e;
+  font-family: "Instrument Serif", serif;
 }
